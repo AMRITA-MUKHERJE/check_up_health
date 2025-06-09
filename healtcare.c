@@ -173,19 +173,4 @@ int main() {
 
 
     }while(choice!=6);
-    // int num,ar[num];
-    // printf("\nhow many symptoms");
-    // scanf("%d",&num);
-    // for(int i=0;i<num;i++){
-    //     printf("Enter symptom no.");
-    //     scanf("%d",ar[i]);
-    // }
-    // if(num==1&&num==2&&num==3&&num==4&&num==5&&num==6&&num==7){
-    //     printf("common cold");
-    // }
-    // if(num==1&&num==2&&num==3&&num==6&&num==8){
-    //     printf("influenza");
-    // }
-
-    // return 0;czzzzzccc
 }
